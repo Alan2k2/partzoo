@@ -34,6 +34,3 @@ This directory contains the cross-platform frontend application for the Automobi
 3. **Run the app:**
    ```bash
    flutter run
-1. **Navigate to the frontend directory:**
-   ```bash
-   cd frontend
